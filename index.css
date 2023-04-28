@@ -1,0 +1,55 @@
+/* Basic Tags */
+body {
+    background-color: #81C4FF
+}
+
+h1 {
+    color: white;
+    font-family: 'Open Sans', sans-serif;    font-size: 30px;
+    text-align: center;
+}
+
+li {
+    float: right;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -10px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #16588E;
+}
+
+li a {
+    height: 60px;
+    display: block;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: bold;
+    padding: 10px;
+    text-decoration: none;
+
+}
+    li a:hover {
+        color: #E7222E;
+    }
+
+button {
+    background-color: #16588E;
+    color: white;
+    padding:20px
+}
+
+
+/* Style Tags */
+
+.other {
+    color: #16588E;
+    float: middle;
+    font-size: 25px;
+}
